@@ -1,40 +1,14 @@
 [{
-    "sweet.camera.selfie": {
-      "is_id": "1c254c26d",
-
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
-      
-      "app_id": "",
-
-      "interval": 60000,
-
-      "ads_list": ["am", "is"]
-    },
-    "neon.horns.devil.camera": {
+    "com.minecraft.crazy.sheep": {
       "is_id": "",
 
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
+      "am_ba": "ca-app-pub-3940256099942544/6300978111",
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "am_na": "ca-app-pub-3940256099942544/2247696110",
       
       "app_id": "",
 
-      "interval": 60000,
-
-      "ads_list": ["am", "is"]
-    },
-    "sweet.selfie.filters.snap": {
-      "is_id": "1c255357d",
-
-      "am_ba": "",
-      "am_in": "",
-      "am_na": "",
-      
-      "app_id": "",
-
-      "interval": 60000,
+      "interval": 10000,
 
       "ads_list": ["am", "is"]
     },
