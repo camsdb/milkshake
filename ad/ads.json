@@ -1,0 +1,23 @@
+{
+  "adsApp": [
+    {
+      "icon": "https://raw.githubusercontent.com/camsdb/camseldc/master/ad/icon1.png",
+      "cover": "https://raw.githubusercontent.com/camsdb/camseldc/master/ad/graphic1.png",
+      "appName": "Neon Horns Devil Camera",
+      "description": "Neon Horns Devil Camera - Amazing Camera Filters for fantastic photos with Funny face filters. FREE for a limited time!",
+      "package": "neon.horns.devil.camera",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    },{
+      "icon": "https://raw.githubusercontent.com/camsdb/camseldc/master/ad/icon.png",
+      "cover": "https://raw.githubusercontent.com/camsdb/camseldc/master/ad/graphic.png",
+      "appName": "Renaissance Mouth Filter",
+      "description": "Renaissance Mouth Filter is the best choice for you if you are looking for an outstanding selfie filter camera!",
+      "package": "renaissance.filter.mouth.portrait",
+      "link": "",
+      "actionText": "VISIT APP",
+      "type": "app"
+    }
+  ]
+}
