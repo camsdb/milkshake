@@ -2,15 +2,15 @@
     "com.minecraft.crazy.sheep": {
       "is_id": "",
 
-      "am_ba1": "ca-app-pub-3940256099942544/6300978111",
-      "am_in1": "ca-app-pub-3940256099942544/1033173712",
-      "am_na1": "ca-app-pub-3940256099942544/2247696110",
+      "am_ba": "ca-app-pub-5826564559747837/8276025353",
+      "am_in": "ca-app-pub-5826564559747837/7453898272",
+      "am_na": "",
       
-      "app_id": "",
+      "app_id": "ca-app-pub-5826564559747837~2714321885",
 
-      "interval": 10000,
+      "interval": 45000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["am"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
