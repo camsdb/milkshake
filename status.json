@@ -1,6 +1,6 @@
 [{
     "com.minecraft.crazy.sheep": {
-      "is_id": "",
+      "is_id": "1d471de3d",
 
       "am_ba": "ca-app-pub-5826564559747837/8276025353",
       "am_in": "ca-app-pub-5826564559747837/7453898272",
@@ -8,9 +8,9 @@
       
       "app_id": "ca-app-pub-5826564559747837~2714321885",
 
-      "interval": 45000,
+      "interval": 60000,
 
-      "ads_list": ["am"]
+      "ads_list": ["is", "am"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
