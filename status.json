@@ -10,7 +10,7 @@
 
       "interval": 60000,
 
-      "ads_list": ["is", "am"]
+      "ads_list": ["am", "is"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
