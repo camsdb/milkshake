@@ -1,5 +1,5 @@
 [{
-    "com.minecraft.crazy.sheep": {
+    "com.minecraft.crazy.sheep.ne": {
       "is_id": "1d471de3d",
 
       "am_ba": "",
@@ -11,6 +11,19 @@
       "interval": 60000,
 
       "ads_list": ["am", "is"]
+    },
+    "com.minecraft.crazy.sheep": {
+      "is_id": "1d471de3d",
+
+      "am_ba": "",
+      "am_in": "",
+      "am_na": "",
+      
+      "app_id": "",
+
+      "interval": 60000,
+
+      "ads_list": ["is"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
