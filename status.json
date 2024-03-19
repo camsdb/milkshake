@@ -1,29 +1,16 @@
 [{
-    "com.minecraft.crazy.sheep.ne": {
-      "is_id": "1d471de3d",
-
-      "am_ba": "",
-      "am_in": "ca-app-pub-4576769423328380/4686685976",
-      "am_na": "",
-      
-      "app_id": "ca-app-pub-4576769423328380~6658969542",
-
-      "interval": 60000,
-
-      "ads_list": ["am", "is"]
-    },
     "com.minecraft.crazy.sheep": {
       "is_id": "1d471de3d",
 
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-8330030365142195/4174338636",
       "am_na": "",
       
-      "app_id": "",
+      "app_id": "ca-app-pub-8330030365142195~3654575832",
 
       "interval": 60000,
 
-      "ads_list": ["is"]
+      "ads_list": ["am", "is"]
     },
   "com.beauty.photo.debug": {
       "is_id": "",
