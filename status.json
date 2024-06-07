@@ -12,6 +12,17 @@
 
       "ads_list": ["am", "is"]
     },
+    "com.euro.live.tv": {
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
+
+      "interval": 60000,
+      "is_id": "",
+      "get_channel_via_link": true,
+      "stats_urlzzzz": "data/africa2023/st",
+      "match_update_urlzzz": "data/asian2023tv/match"
+    },
   "com.beauty.photo.debug": {
       "is_id": "",
       "am_ba": "",
