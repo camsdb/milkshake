@@ -13,9 +13,9 @@
       "ads_list": ["am", "is"]
     },
     "com.euro.live.tv": {
-      "ads_list": ["am"],
-      "am_in": "ca-app-pub-3940256099942544/1033173712",
-      "app_id": "ca-app-pub-3940256099942544~3347511713",
+      "ads_list": [""],
+      "am_in": "",
+      "app_id": "",
 
       "interval": 60000,
       "is_id": "",
@@ -25,14 +25,11 @@
     },
   "com.beauty.photo.debug": {
       "is_id": "",
-      "am_ba": "",
-      "am_in": "",
-      "am_vi": "",
-      "am_na": "",
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
 
       "inf" : "data/sweetcameraselfie/inf",
-
-      "app_id" : "ca-app-pub-3940256099942544~3347510000",
 
       "interval": 45000,
 
@@ -46,8 +43,6 @@
         "update_button":"Update now",
         "icon":"https://play-lh.googleusercontent.com/hks_e0s68zWs4FWHSHbzo28H8eTiJ7uczqWnDZvWj3x7-f28rFkLSndScblCx0mRYUA=s96-rw",
         "app_name":"Create Music DJ Pad"
-      },
-
-      "ads_list": [""]
+      }
     }
 }]
