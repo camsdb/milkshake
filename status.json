@@ -20,7 +20,7 @@
       "interval": 60000,
       "is_id": "",
       "get_channel_via_link": true,
-      "bracket_url": "data/euro2024/bracket/1.jpg",
+      "bracket_urlzzz": "data/euro2024/bracket/1.jpg",
       "stats_urlzzzz": "data/africa2023/st",
       "match_update_urlzzz": "data/asian2023tv/match"
     },
