@@ -13,9 +13,9 @@
       "ads_list": ["am", "is"]
     },
     "com.euro.live.tv": {
-      "ads_list": [""],
-      "am_in": "",
-      "app_id": "",
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
 
       "interval": 60000,
       "is_id": "",
