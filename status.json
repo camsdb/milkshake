@@ -13,12 +13,12 @@
       "ads_list": ["am", "is"]
     },
     "com.euro.live.tv": {
-      "ads_list": [""],
-      "am_in": "",
-      "app_id": "",
+      "ads_list": ["am", "is"],
+      "am_in": "ca-app-pub-6375132035172052/3074908137",
+      "app_id": "ca-app-pub-6375132035172052~7615475294",
 
       "interval": 60000,
-      "is_id": "",
+      "is_id": "1ecfeeeb5",
       "get_channel_via_link": true,
       "bracket_urlzzz": "data/euro2024/bracket/1.jpg",
       "stats_urlzzzz": "data/africa2023/st",
