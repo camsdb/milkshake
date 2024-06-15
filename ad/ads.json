@@ -1,8 +1,8 @@
 {
   "adsApp": [
     {
-      "icon": "https://raw.githubusercontent.com/camsdb/camseldc/master/ad/icon1.png",
-      "cover": "https://raw.githubusercontent.com/camsdb/camseldc/master/ad/graphic1.png",
+      "icon": "https://raw.githubusercontent.com/camsdb/milkshake/master/ad/icon1.png",
+      "cover": "https://raw.githubusercontent.com/camsdb/milkshake/master/ad/graphic1.png",
       "appName": "Sweet Camera Selfie",
       "description": "Sweet Camera Selfie - Amazing Camera Filters for fantastic photos with Funny face filters. FREE for a limited time!",
       "package": "sweet.camera.selfie",
@@ -10,8 +10,8 @@
       "actionText": "VISIT APP",
       "type": "app"
     },{
-      "icon": "https://raw.githubusercontent.com/camsdb/camseldc/master/ad/icon.png",
-      "cover": "https://raw.githubusercontent.com/camsdb/camseldc/master/ad/graphic.png",
+      "icon": "https://raw.githubusercontent.com/camsdb/milkshake/master/ad/icon.png",
+      "cover": "https://raw.githubusercontent.com/camsdb/milkshake/master/ad/graphic.png",
       "appName": "Renaissance Mouth Filter",
       "description": "Renaissance Mouth Filter is the best choice for you if you are looking for an outstanding selfie filter camera!",
       "package": "renaissance.filter.mouth.portrait",
