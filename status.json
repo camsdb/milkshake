@@ -24,6 +24,18 @@
       "stats_urlzzzz": "data/africa2023/st",
       "match_update_urlzzz": "data/asian2023tv/match"
     },
+    "com.copa.america.live": {
+      "ads_list": ["am"],
+      "am_in": "ca-app-pub-3940256099942544/1033173712",
+      "app_id": "ca-app-pub-3940256099942544~3347511713",
+
+      "interval": 60000,
+      "is_id": "",
+      "get_channel_via_link": true,
+      "bracket_urlzzz": "data/euro2024/bracket/1.jpg",
+      "stats_urlzzzz": "data/africa2023/st",
+      "match_update_urlzzz": "data/asian2023tv/match"
+    },
   "com.beauty.photo.debug": {
       "is_id": "",
       "ads_list": ["am"],
