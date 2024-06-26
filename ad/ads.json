@@ -3,9 +3,9 @@
     {
       "icon": "https://raw.githubusercontent.com/camsdb/milkshake/master/ad/icon1.png",
       "cover": "https://raw.githubusercontent.com/camsdb/milkshake/master/ad/graphic1.png",
-      "appName": "Sweet Camera Selfie",
-      "description": "Sweet Camera Selfie - Amazing Camera Filters for fantastic photos with Funny face filters. FREE for a limited time!",
-      "package": "sweet.camera.selfie",
+      "appName": "Filters for Selfie",
+      "description": "Filters for Selfie - Amazing Camera Filters for fantastic photos with Funny face filters. FREE for a limited time!",
+      "package": "sweet.selfie.filters.snap",
       "link": "",
       "actionText": "VISIT APP",
       "type": "app"
