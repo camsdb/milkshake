@@ -25,6 +25,7 @@
 
       "ads_list": ["am"],
 
+      "show_banner": true,
 
       "status":2,
       "version_code":2,
