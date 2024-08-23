@@ -3,14 +3,14 @@
       "is_id": "1d471de3d",
 
       "am_ba": "",
-      "am_in": "ca-app-pub-5386542863414012/1347273399",
+      "am_in": "",
       "am_na": "",
       
-      "app_id": "ca-app-pub-5386542863414012~8762728984",
+      "app_id": "",
 
       "interval": 60000,
 
-      "ads_list": ["am", "is"]
+      "ads_list": ["is"]
     },
     "com.DefaultCompany.CrazySheep": {
       "is_id": "",
