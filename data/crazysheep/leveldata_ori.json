@@ -33,7 +33,7 @@
       "rightHeight": 0,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        6
+        3
       ]
     },
     {
@@ -43,7 +43,7 @@
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
         -9999,
-        3
+        -9999
       ]
     },
     {
@@ -52,8 +52,8 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        7,
-        8
+        6,
+        6
       ]
     },
     {
@@ -90,8 +90,8 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        3.5,
-        3.5
+        -9999,
+        -9999
       ]
     },
     {
@@ -100,8 +100,8 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        7,
-        7
+        6,
+        6
       ]
     },
     {
@@ -110,8 +110,8 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        4,
-        5
+        3.5,
+        4
       ]
     },
     {
@@ -129,9 +129,9 @@
       "id": 14,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 4,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
-        6,
+        4,
         5
       ]
     },
@@ -141,10 +141,10 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        3.5,
-        3.5,
-        7,
-        7
+        -9999,
+        -9999,
+        -9999,
+        -9999
       ]
     },
     {
@@ -166,8 +166,8 @@
       "rightHeight": 0,
       "playerSpeed": 4,
       "obstaclesSpeed": [
-        6,
-        5
+        -9999,
+        -9999
       ]
     },
     {
@@ -176,9 +176,9 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        4,
-        4,
-        4
+        -9999,
+        -9999,
+        -9999
       ]
     },
     {
@@ -195,7 +195,7 @@
     {
       "id": 21,
       "leftHeight": 0,
-      "rightHeight": 0,
+      "rightHeight": 4,
       "playerSpeed": 2,
       "obstaclesSpeed": [
         7,
@@ -208,7 +208,7 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        4.5
+        3.5
       ]
     },
     {
@@ -225,6 +225,6 @@
     "leftHeight": 0,
     "rightHeight": 0,
     "playerSpeed": 2,
-    "obstacleSpeed": [6,6,1,1,1]
+    "obstacleSpeed": [1,1,1,1,1]
   }
 }
