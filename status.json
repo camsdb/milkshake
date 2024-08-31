@@ -8,7 +8,7 @@
       
       "app_id": "",
 
-      "interval": 60000,
+      "interval": 180000,
 
       "ads_list": ["is"]
     },
