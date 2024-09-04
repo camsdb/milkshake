@@ -40,7 +40,7 @@
       "id": 5,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         -9999,
         3
@@ -50,7 +50,7 @@
       "id": 6,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         7,
         8
@@ -60,7 +60,7 @@
       "id": 7,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         -9999
       ]
@@ -69,7 +69,7 @@
       "id": 8,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         6
       ]
@@ -78,7 +78,7 @@
       "id": 9,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         -9999,
         -9999
@@ -88,7 +88,7 @@
       "id": 10,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         3.5,
         3.5
@@ -98,7 +98,7 @@
       "id": 11,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         7,
         7
@@ -108,7 +108,7 @@
       "id": 12,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         4,
         5
@@ -139,7 +139,7 @@
       "id": 15,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         3,
         3,
@@ -196,7 +196,7 @@
       "id": 21,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 2,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         7,
         2
@@ -206,7 +206,7 @@
       "id": 22,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         4.5
       ]
@@ -215,7 +215,7 @@
       "id": 23,
       "leftHeight": 0,
       "rightHeight": 0,
-      "playerSpeed": 3.5,
+      "playerSpeed": -9999,
       "obstaclesSpeed": [
         6
       ]
