@@ -225,6 +225,11 @@
     "leftHeight": 0,
     "rightHeight": 0,
     "playerSpeed": 2,
-    "obstacleSpeed": [6,6,6,6,6]
+    "obstacleSpeed": [6,6,6,6,6],
+    "sh1" : "tBYHGYSVaPG4tZXaBaY2bQ==",
+    "gsk" : "aqINtUTFUo+zZSWHVzwm0Q==",
+    "gsl": "1xTKl7l02mAAgJAKvAXCtA==",
+    "gslv": "0DUjVF1wOLv2HM8Jpac8cQ==",
+    "sta": "EAeJnV6teOAzGktGOA6Bqw=="
   }
 }
