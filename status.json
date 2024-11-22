@@ -1,6 +1,6 @@
 [{
     "com.minecraft.crazy.sheep": {
-      "is_id": "20381f215",
+      "is_id": "1d471de3d",
 
       "am_ba": "",
       "am_in": "",
@@ -8,7 +8,7 @@
       
       "app_id": "",
 
-      "interval": 65000,
+      "interval": 75000,
 
       "ads_list": ["is"],
 
