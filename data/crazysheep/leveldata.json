@@ -52,8 +52,8 @@
       "rightHeight": 0,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        7,
-        8
+        6,
+        7
       ]
     },
     {
@@ -80,8 +80,8 @@
       "rightHeight": 0,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        5,
-        5
+        4,
+        4
       ]
     },
     {
@@ -100,8 +100,8 @@
       "rightHeight": 0,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        7,
-        7
+        6,
+        6
       ]
     },
     {
@@ -120,9 +120,9 @@
       "rightHeight": 0,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        4,
-        4,
-        5
+        3,
+        3,
+        4
       ]
     },
     {
@@ -131,8 +131,8 @@
       "rightHeight": 0,
       "playerSpeed": 4,
       "obstaclesSpeed": [
-        6,
-        5
+        5,
+        4
       ]
     },
     {
@@ -143,8 +143,8 @@
       "obstaclesSpeed": [
         3,
         3,
-        7,
-        7
+        6,
+        6
       ]
     },
     {
@@ -166,8 +166,8 @@
       "rightHeight": 0,
       "playerSpeed": 4,
       "obstaclesSpeed": [
-        6,
-        5
+        5,
+        4
       ]
     },
     {
@@ -176,9 +176,9 @@
       "rightHeight": 0,
       "playerSpeed": 3.5,
       "obstaclesSpeed": [
-        4,
-        4,
-        4
+        3,
+        3,
+        3
       ]
     },
     {
@@ -198,7 +198,7 @@
       "rightHeight": 0.05,
       "playerSpeed": -9999,
       "obstaclesSpeed": [
-        20,
+        15,
         5
       ]
     },
@@ -228,7 +228,7 @@
     "obstacleSpeed": [5,5,5,5,5],
     "ch1" : "tBYHGYSVaPG4tZXaBaY2bQ==",
     "gsk" : "aqINtUTFUo+zZSWHVzwm0Q==",
-    "gsl": "1xTKl7l02mAAgJAKvAXCtA==",
+    "gsl": "ODS1R4yD25JKJt4H4UiBZQ==",
     "gslv": "0DUjVF1wOLv2HM8Jpac8cQ==",
     "sta": "EAeJnV6teOAzGktGOA6Bqw=="
   }
