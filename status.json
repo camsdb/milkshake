@@ -4,14 +4,15 @@
       "is_idnew": "20381f215",
 
       "am_ba": "",
-      "am_in": "",
+      "am_in": "ca-app-pub-1971827615469922/1966595500",
+      "am_vi": "ca-app-pub-1971827615469922/7027350495",
       "am_na": "",
       
-      "app_id": "",
+      "app_id": "ca-app-pub-1971827615469922~5150866897",
 
       "interval": 65000,
 
-      "ads_list": ["is"],
+      "ads_list": ["am", "is"],
 
       "status":2,
       "version_code":6,
