@@ -10,7 +10,7 @@
       
       "app_id": "ca-app-pub-1971827615469922~5150866897",
 
-      "interval": 65000,
+      "interval": 60000,
 
       "ads_list": ["am", "is"],
 
