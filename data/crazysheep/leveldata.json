@@ -483,7 +483,7 @@
       "id": 76,
       "leftHeight": 0,
       "rightHeight": -0.65,
-      "playerSpeed": 2,
+      "playerSpeed": 2.4,
       "obstaclesSpeed": [
         3,
         5,
@@ -499,7 +499,7 @@
     "playerSpeed": 2,
     "obstacleSpeed": [5,5,5,5,5,5,5,5,5,5],
     "ch1" : "tBYHGYSVaPG4tZXaBaY2bQ==",
-    "gsk" : "0DUjVF1wOLv2HM8Jpac8cQ==",
+    "gsk" : "d16FVCanTu+WreOrE6kl+Q==",
     "gsl": "0DUjVF1wOLv2HM8Jpac8cQ==",
     "gslv": "0DUjVF1wOLv2HM8Jpac8cQ==",
     "sta": "EAeJnV6teOAzGktGOA6Bqw==",
