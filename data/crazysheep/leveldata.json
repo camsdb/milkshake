@@ -483,12 +483,12 @@
       "id": 76,
       "leftHeight": 0,
       "rightHeight": -0.65,
-      "playerSpeed": 1.8,
+      "playerSpeed": 1.9,
       "obstaclesSpeed": [
-        4,
+        3,
         5,
         5,
-        4,
+        3,
         5
       ]
     }
