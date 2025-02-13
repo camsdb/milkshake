@@ -1,45 +1,18 @@
 [{
     "com.minecraft.crazy.sheep": {
-      "is_id": "",
-      "is_idnew": "",
-
-      "am_ba": "",
-      "am_in": "",
-      "am_vi": "",
-      "am_na": "",
-      
-      "app_id": "",
-
-      "interval": 60000,
-
-      "ads_list": ["zz"],
-
-      "status":2,
-      "version_code":6,
-      "update_info":{
-        "update_title":"A new version is available",
-        "button_name":"Update app",
-        "des":"Mancraft Crazy Sheep lets you do your best to escort a sheep from one end of the screen to the other by trying to align moving pieces as a path.",
-        "package":"com.minecraft.crazy.sheep",
-        "update_button":"Update now",
-        "icon":"https://raw.githubusercontent.com/camsdb/milkshake/master/data/crazysheep/icon.png",
-        "app_name":"Mancraft Crazy Sheep"
-      }
-    },
-    "com.minecraft.crazy.sheep.bk": {
       "is_id": "1d471de3d",
       "is_idnew": "20381f215",
 
       "am_ba": "",
-      "am_in": "",
-      "am_vi": "",
+      "am_in": "ca-app-pub-2238446437692332/3700193001",
+      "am_vi": "ca-app-pub-2238446437692332/8179366209",
       "am_na": "",
       
-      "app_id": "",
+      "app_id": "ca-app-pub-2238446437692332~3509455465",
 
       "interval": 60000,
 
-      "ads_list": ["is"],
+      "ads_list": ["am", "is"],
 
       "status":2,
       "version_code":6,
